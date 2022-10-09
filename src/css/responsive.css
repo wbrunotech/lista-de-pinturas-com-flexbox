@@ -1,0 +1,7 @@
+@media(max-width: 14.40rem) {
+    .pinturas{
+        max-width: 90rem;
+        margin: 3rem 0;
+        gap: 0;
+    }
+}
